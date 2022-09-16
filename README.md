@@ -406,9 +406,9 @@ SUB TO BLUBOMBS!!!
 .
 
 
+you've scrolled to the bottom! 
 
-
-im going to explain how to do the weird gif exploit
+now im going to explain how to do the weird gif exploit
 
 just go to https://github.com/blabambs/blabambs.github.io/
 
