@@ -8,6 +8,7 @@ very empty ehh?
 ye gimme some idea for this website on discord.gg/9cD4Y2qVhH (Official discord server)
 SUB TO BLUBOMBS!!!
 
+https://drive.google.com/drive/folders/15k2cXnztjed9wku-OL3EGDHnJJXKb0cM?us
 .
 
 .
