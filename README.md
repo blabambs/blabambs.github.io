@@ -1,9 +1,8 @@
 # Blubombs official website
-Hello! im ade
+Hello! im Ade, and welcome to my website
 
-and welcome to my website
+gimme some idea for this website on discord.gg/9cD4Y2qVhH (Official discord server)
 
-very empty ehh?
+# 3DMM Movies
 
-ye gimme some idea for this website on discord.gg/9cD4Y2qVhH (Official discord server)
-SUB TO BLUBOMBS!!!
+
