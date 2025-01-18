@@ -1,1 +1,1 @@
-https://blabambs.github.io/interest
+https://blabambs.github.io/interests.md
