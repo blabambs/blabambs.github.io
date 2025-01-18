@@ -7,6 +7,9 @@ things i like or look into
 -Half-life
 -Counter-strike
 -WMMT
+-The Offspring
+-Pennywise
+-Trance Musics
 -Taiko no Tatsujin
 -Old Indonesian internet stuff
 -A few Need For Speed games
