@@ -1,6 +1,5 @@
 things i like or look into
 
--BFDI
 -Doom & Doom modding/mapping
 -The House of The Dead series
 -GTA
@@ -15,5 +14,6 @@ things i like or look into
 -A few Need For Speed games
 -Virtual Machine stuffs
 -Emulation
--Linux stuffs
 -3D Graphic techniques
+-3DMM
+-Initial D
