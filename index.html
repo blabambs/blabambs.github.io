@@ -26,6 +26,14 @@ h3 {
 	text-align: center;
 	font-family: 'Liberation Mono', sans-serif;
 }
+
+#more {
+  display: none;
+}
+
+  
+}
+
 </style>
 
 </head>
@@ -33,7 +41,7 @@ h3 {
 <h1>BluBombs Websites</h1>
 <h3>hi welcome</h3>
 <h2>Things i like/looking into</h2>
-<p>-Doom & Doom modding/mapping<br>
+<p><span id="dots"> </span><span id="more">-Doom & Doom modding/mapping<br>
 -The House of The Dead series<br>
 -GTA<br>
 -Half-life<br>
@@ -51,13 +59,35 @@ h3 {
 -3D Graphic techniques<br>
 -3DMM<br>
 -Initial D<br>
-</p>
+</span></p>
+<p><button onclick="myFunction()" id="myBtn">Show</button></p>
+<!-- Jawascript -->
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
 <h2>Comic I made (On hold)</h2>
 <h2><a href="https://blabambs.github.io/Strips"><img src="https://github.com/blabambs/blabambs.github.io/blob/main/todd%20wut.png?raw=true"></a></h2>
 <h3>(Click the image to read)</h3>
 <h2>Did i mention i <a href="https://3dmm.com/member.php?u=10282">3DMM?</a></h2>
 <h2><a href="https://www.youtube.com/watch?v=5f41SMj1hBA&list=PLDPZXVBRCILcLWzqNDGW10dYp5IeXfhU7&pp=gAQB0gcJCV8EOCosWNin"><img src="https://github.com/blabambs/blabambs.github.io/blob/main/dcmm%20series.png?raw=true"></a></h2>
 <h3>(Click the image to watch Doraemon Commit Mass Murderer)</h3>
+<h3>(or go to the <a href="https://3dmm.com/showthread.php?t=58721">3dmm page of the latest dcmm movie)</a></h3>
 <p>
 <br>
 <br>
@@ -135,7 +165,66 @@ h3 {
 <br>
 <br>
 <br>
-</p>
-<h1><img src="https://github.com/blabambs/blabambs.github.io/blob/main/celica%20hired.png?raw=true">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></p>
+<!-- celica i luv youuuuu -->
+
+
+
+<h1><span id="celica"><img src="https://github.com/blabambs/blabambs.github.io/blob/main/celica%20hired.png?raw=true"></span></h1>
 </body>
 </html>
