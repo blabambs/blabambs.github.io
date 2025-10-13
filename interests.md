@@ -9,6 +9,7 @@ things i like or look into
 -The Offspring
 -Pennywise
 -Trance Musics
+-Eurobeat Musics
 -Taiko no Tatsujin
 -Old Indonesian internet stuff
 -A few Need For Speed games
