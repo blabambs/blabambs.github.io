@@ -1,3 +1,7 @@
+body{
+  margin: 0px;
+}
+
 h1 {
 	text-align: center;
   color: #ffff;
@@ -143,4 +147,14 @@ li.dropdown2 {
 .shhh {
   color: white;
   text-decoration: none;
+}
+
+summary{
+  text-align: center;
+  font-family: 'Liberation Mono', sans-serif;
+}
+
+img{
+  display: block;
+  margin: 1em auto;
 }
